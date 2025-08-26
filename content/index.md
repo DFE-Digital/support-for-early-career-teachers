@@ -11,7 +11,7 @@ These materials are based on the initial teacher training and early career frame
 View the course materials for:
 
 - [National Institute of Teaching (NIOT)](https://niot.org.uk/programmes/materials-for-school-led-ect-programme-25-26)
-- [UCL](https://cel-resources.ucl.ac.uk/index.php?option=com_sppagebuilder&view=page&id=11)
+- [UCL](https://cel-resources.ucl.ac.uk/ect)
 
 ## Learning materials for ECTs starting before September 2025
 These materials are based on the early career framework (ECF). Schools can continue to use them for ECTs who've started but not yet completed training, but we encourage the use of ITTECF-based material where possible. Speak to your appropriate body if you do this.
