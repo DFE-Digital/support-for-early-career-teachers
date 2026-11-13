@@ -6,11 +6,11 @@ title: "UCL"
 
 The programme handbook outlines how UCL Early Career Teacher Consortium’s coaching and mentoring programme works.
 
-[Programme Handbook (PDF, 1002 KB, 74 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/ucl-Programme-Handbook-Updated.pdf)
+[Programme Handbook (PDF, 1002 KB, 74 pages)](/assets/materials/ucl-Programme-Handbook-Updated.pdf)
 
 The practitioner inquiry handbook details how early career teachers will carry out detailed investigations into specific aspects of their teaching in the second year of their induction.
 
-[Year 2 handbook: practitioner inquiry (PDF, 430 KB, 20 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/ucl-Year-2-Handbook-Practitioner-Inquiry-1.pdf)
+[Year 2 handbook: practitioner inquiry (PDF, 430 KB, 20 pages)](/assets/materials/ucl-Year-2-Handbook-Practitioner-Inquiry-1.pdf)
 
 ## Year 1: Autumn term
 

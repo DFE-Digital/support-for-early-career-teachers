@@ -6,11 +6,11 @@ title: "Ambition Institute"
 
 The programme handbook outlines how Ambition Institute’s coaching and mentoring programme works.
 
-[ECF Programme Handbook (PDF, 107 KB, 10 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/Ambition-EarlyCareerTeachers_2020_ProgrammeHandbook.pdf)
+[ECF Programme Handbook (PDF, 107 KB, 10 pages)](/assets/materials/Ambition-EarlyCareerTeachers_2020_ProgrammeHandbook.pdf)
 
 The lead handbook provides an overview of your role and responsibilities.
 
-[ECF Lead Handbook (PDF, 102 KB, 12 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/Ambition-EarlyCareerTeachers_2020_LeadHandbook_Guidebook_Edit-1-1.pdf)
+[ECF Lead Handbook (PDF, 102 KB, 12 pages)](/assets/materials/Ambition-EarlyCareerTeachers_2020_LeadHandbook_Guidebook_Edit-1-1.pdf)
 
 ## Year 1: Autumn term
 
